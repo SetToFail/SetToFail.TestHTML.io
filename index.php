@@ -31,7 +31,7 @@ $selectedSubtopic = $selectedTopic['subtopics'][$selectedSubtopicId] ?? null;
 <head>
     <meta charset="UTF-8">
     <title>База знаний</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
